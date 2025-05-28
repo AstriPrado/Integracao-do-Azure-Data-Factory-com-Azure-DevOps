@@ -7,22 +7,25 @@ Este projeto faz parte do curso **Microsoft AI | Azure Databricks** da **DIO**. 
 
 - ☁️ Microsoft Azure (Data Factory, DevOps)
 - 🔧 Git (Controle de Versionamento)
-- 📄 Markdown
+- 📄 Markdown para documentação
 
 ## 🔗 Pré-requisitos
 
 - Conta ativa no **Microsoft Azure**
 - Conta no **Azure DevOps** vinculada ao mesmo diretório do Azure
-- Data Factory criado
 
 ## 🛠️ Passo a Passo da Integração
 
 ### ✅ 1º Passo: Criação do Data Factory
 > Data Factory criado no projeto anterior.
+🔗 [Acesse Aqui o Passo a Passo da Criação do Data Factory](https://github.com/AstriPrado/Projeto-Azure-Data-Factory)
 
 ---
 
 ### ✅ 2º Passo: Criação da Organização e Projeto no Azure DevOps
+ 1. Acesse: https://dev.azure.com/
+ 2. Crie uma nova organização vinculada ao mesmo diretório do seu Azure.
+ 3. Crie um projeto dentro dessa organização.
 
 ![Criação do Azure DevOps](./imagens/print-1.png)
 
@@ -57,12 +60,6 @@ Este projeto faz parte do curso **Microsoft AI | Azure Databricks** da **DIO**. 
 
 ---
 
-## 🧠 Conceitos Importantes
-
-- **Branch:** Ramificação de código para desenvolvimento isolado.
-- **Commit:** Registro de alteração.
-- **Publish:** Publicação dos artefatos no ambiente do Data Factory.
-
 ## 💡 Conclusão
 
 A integração permite versionamento, governança e rastreabilidade sobre os pipelines do Data Factory.
@@ -70,25 +67,5 @@ A integração permite versionamento, governança e rastreabilidade sobre os pip
 ## ✍️ Autor
 
 - 👩‍💻 **Astri Prado**  
-🔗 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/astri-prado) | [GitHub](https://github.com/AstriPrado)
 
-## 🚀 Licença
-
-Projeto sob licença MIT.
-
-## 📦 Estrutura dos Arquivos
-
-```
-📂 projeto-ADF-AzureDevOps
-│
-├── 📁 imagens
-│   ├── print-1.png
-│   ├── print-2.png
-│   ├── print-3.png
-│   ├── print-4.png
-│   ├── print-5.png
-│   └── print-6.png
-│
-├── README.md
-└── (outros arquivos)
-```
