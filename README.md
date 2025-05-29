@@ -27,7 +27,7 @@ Este projeto faz parte do curso **Microsoft AI | Azure Databricks** da **DIO**. 
  2. Crie uma nova organização vinculada ao mesmo diretório do seu Azure.
  3. Crie um projeto dentro dessa organização.
 
-![Criação do Azure DevOps](./imagens/print-1.png)
+![Criação do Azure DevOps](img/imagem1.png)
 
 ---
 
@@ -36,19 +36,19 @@ Este projeto faz parte do curso **Microsoft AI | Azure Databricks** da **DIO**. 
 1. Acesse **Gerenciar** no menu do Data Factory.
 2. Clique em **Configuração do Git** e depois em **Configurar**.
 
-![Configuração do Git](./imagens/print-2.png)
+![Configuração do Git](img/imagem2.png)
 
 3. Defina o tipo de repositório (**Azure DevOps Git** ou **GitHub**).
 
-![Escolha do repositório](./imagens/print-3.png)
+![Escolha do repositório](img/imagem3.png)
 
 4. Configure o repositório com os dados da sua organização e projeto.
 
-![Configuração do repositório](./imagens/print-4.png)
+![Configuração do repositório](img/imagem4.png)
 
 5. Confirme o repositório configurado.
 
-![Repositório configurado](./imagens/print-5.png)
+![Repositório configurado](img/imagem5.png)
 
 ---
 
@@ -56,7 +56,7 @@ Este projeto faz parte do curso **Microsoft AI | Azure Databricks** da **DIO**. 
 
 - No Azure DevOps, acesse **Repos > Files** para visualizar os artefatos sincronizados.
 
-![Verificação no DevOps](./imagens/print-6.png)
+![Verificação no DevOps](img/imagem6.png)
 
 ---
 
