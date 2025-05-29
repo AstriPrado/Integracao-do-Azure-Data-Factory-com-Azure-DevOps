@@ -18,7 +18,7 @@ Este projeto faz parte do curso **Microsoft AI | Azure Databricks** da **DIO**. 
 
 ### ✅ 1º Passo: Criação do Data Factory
 > Data Factory criado no projeto anterior.
-🔗 [Acesse Aqui o Passo a Passo da Criação do Data Factory](https://github.com/AstriPrado/Projeto-Azure-Data-Factory)
+🔗 [Acesse Aqui o Passo a Passo da Criação do Azure Data Factory](https://github.com/AstriPrado/Projeto-Azure-Data-Factory)
 
 ---
 
